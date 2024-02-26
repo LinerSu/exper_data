@@ -1,4 +1,4 @@
-Name,LOC,SUITE
+name,loc,suite
 phpdbg,3248575,
 php,3201237,
 sqlite3,264082,
